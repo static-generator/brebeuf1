@@ -11,3 +11,7 @@ Favorite classmates:
 My Socials:
 
 - [Spotify](https://open.spotify.com)
+- [Facebook](https://www.facebook.com/francis.m.abilay)
+- [Instagram](https://www.instagram.com/nutellacupss/)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4JIjKGT918iZzjdi23I8cF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
