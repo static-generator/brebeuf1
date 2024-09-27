@@ -8,6 +8,13 @@ Favorite classmates:
 2. Arkin
 3. Jaden
 
+Favorite Hobbies:
+1. Cycling
+2. Minecraft
+3. Football
+
+Hopes and dreams - to save up 20k for bike build
+
 My Socials:
 
 - [Spotify](https://open.spotify.com)
